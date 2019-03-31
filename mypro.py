@@ -17,7 +17,7 @@ for x in thisdict.values():
 for x , y in thisdict.items():
     print(x,y)
 
-
+print ("This is a example of Dictionary")
 
 '''
 Method 	        Description
